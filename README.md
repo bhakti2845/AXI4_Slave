@@ -29,7 +29,7 @@ The AXI4 read operation is divided into **two independent channels**, enabling p
 
 ---
 
-## 🔹 AXI4 Write Transaction
+## AXI4 Write Transaction
 The AXI4 write operation is divided into **three independent channels**:
 
 ### Write Address Channel (AW)
